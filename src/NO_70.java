@@ -4,7 +4,7 @@
  * LeetCode 70.爬楼梯
  **/
 
-//递归超时
+//递归超时了
 class Solution70_RunTime {
     public int climbStairs(int n) {
         if(n == 1) {
